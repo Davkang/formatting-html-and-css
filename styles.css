@@ -1,0 +1,31 @@
+body {
+  font-family: Helvetica, sans-serif;
+  margin: 0;
+  background-color: #F6F6EF;
+}
+
+header {
+  background-color: #FD6620;
+  padding: 15px;
+}
+
+.site-title {
+  color: white;
+  float: left;
+  margin: 0;
+  display: inline; /* display side-by-side */
+}
+
+.sub-title {
+  text-align: center;
+  margin: 0;
+}
+
+.ingredients {
+  padding-left: 10px;
+  margin: auto;
+}
+
+img{
+  margin-top: 100px;
+}
